@@ -1,0 +1,12 @@
+https://unpkg.com/docsify/lib/themes/vue.css
+cdn.jsdelivr.net/npm/docsify/lib/docsify.js
+unpkg.com/docsify/lib/plugins/zoom-image.js
+cdn.jsdelivr.net/npm/docsify-copy-code
+cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js
+cdn.jsdelivr.net/npm/katex@latest/dist/katex.css
+unpkg.com/prismjs/components/prism-bash.js
+unpkg.com/prismjs/components/prism-python.js
+cdn.jsdelivr.net/npm/docsify/lib/plugins/search.js
+cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.js
+cdn.jsdelivr.net/npm/prismjs@latest/components/prism-latex.js
+https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css
